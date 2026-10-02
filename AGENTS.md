@@ -50,3 +50,7 @@ Struktur folder:
 
 - Setelah perubahan, jalankan perintah verifikasi yang diminta dalam perintah.
 - Laporkan hasilnya apa adanya: berhasil jika berhasil, pesan error apa adanya jika gagal.
+
+## 9. Project brief
+
+- Baca `docs/PROJECT_BRIEF.md` sebelum mengerjakan tugas apa pun.
