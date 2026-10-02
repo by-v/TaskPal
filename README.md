@@ -1,3 +1,1 @@
-# TaskPal
-
-TaskPal adalah AI agent dengan visual dunia pixel yang membantu mengerjakan tugas kuliah.
+TalkPal TaskPay is an AI agent with a pixel art world theme that helps with college assignments.
