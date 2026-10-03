@@ -9,3 +9,5 @@ Tanggal: 2026-10-04
 6. Agent coding bersifat umum (semua bahasa); Colab hanya salah satu lingkungan; bahasa diberi label teruji atau belum teruji.
 7. Penanda keyakinan "perlu diperiksa" termasuk MVP.
 8. Biaya proyek harus Rp0: hanya tier gratis dan perangkat open source.
+9. Status real-time memakai SSE, bukan WebSocket (satu arah, tanpa dependensi tambahan).
+10. Konkurensi 2 tugas; tugas lain mengantre (menjaga batas tier gratis).
