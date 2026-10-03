@@ -54,3 +54,7 @@ Struktur folder:
 ## 9. Project brief
 
 - Baca `docs/PROJECT_BRIEF.md` sebelum mengerjakan tugas apa pun.
+
+## 10. Standar rekayasa
+
+- Patuhi `docs/ENGINEERING_STANDARDS.md` pada setiap perubahan.
