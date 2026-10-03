@@ -11,3 +11,4 @@ Tanggal: 2026-10-04
 8. Biaya proyek harus Rp0: hanya tier gratis dan perangkat open source.
 9. Status real-time memakai SSE, bukan WebSocket (satu arah, tanpa dependensi tambahan).
 10. Konkurensi 2 tugas; tugas lain mengantre (menjaga batas tier gratis).
+11. Struktur npm workspaces (root, client, server); dependensi memakai versi tepat (save-exact) dan lockfile di-commit.
