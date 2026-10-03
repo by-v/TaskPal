@@ -12,7 +12,7 @@ Satu mahasiswa (pemakaian pribadi).
 - Maksimal: 5 tugas (kasus terburuk)
 
 ## Jenis tugas
-- MVP: coding Python untuk Google Colab, mengerjakan soal
+- MVP: coding (bahasa apa pun; teruji: Python, JavaScript, C++), mengerjakan soal
 - Nanti: makalah, ide jawaban tugas, materi PPT
 
 ## Prinsip
