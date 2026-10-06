@@ -58,3 +58,8 @@ Struktur folder:
 ## 10. Standar rekayasa
 
 - Patuhi `docs/ENGINEERING_STANDARDS.md` pada setiap perubahan.
+
+- Jangan menjalankan proses yang tidak berhenti sendiri (server dev,
+  watch mode, perintah dengan &) di terminal agent. Uji perilaku HTTP
+  lewat tes Vitest; jika perlu uji manual, minta pengguna yang
+  menjalankannya.
