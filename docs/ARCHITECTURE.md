@@ -33,6 +33,7 @@ di workspace/.
 - Field tak dikenal pada request ditolak
 
 ## Konstanta (config.js)
+HOST=127.0.0.1, PORT=3001 (dari.env), CORS_ORIGIN=http://localhost:5173,
 MAX_TASKS_PER_RUN=5, MAX_CALLS_PER_TASK=6, CONCURRENCY=2,
 MAX_INPUT_CHARS=4000, LLM_TIMEOUT_MS=60000
 

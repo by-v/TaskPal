@@ -2,6 +2,7 @@
 Versi kontrak: 1
 
 ## Endpoint
+- GET /api/health -> 200 {status, llmConfigured}
 - POST /api/runs -> 202 {runId, taskIds}
 - GET /api/runs/:runId/events -> aliran SSE
 - POST /api/runs/:runId/stop -> 200
