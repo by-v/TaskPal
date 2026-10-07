@@ -6,7 +6,7 @@ import { createApp } from './app.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const envPath = join(__dirname, '../../.env');
-loadEnv({ path: envPath });
+loadEnv({ path: envPath, quiet: true });
 
 const config = loadConfig();
 const app = createApp(config);
