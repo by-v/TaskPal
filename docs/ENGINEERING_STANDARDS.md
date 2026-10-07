@@ -37,6 +37,8 @@
 - Satu perubahan = satu commit kecil, format Conventional Commits (mis. feat: tambah adapter Gemini)
 - Logika inti wajib punya tes: pembagi tugas, batas panggilan, validasi
 - Fitur dianggap selesai bila: jalan, lolos lint dan tes, tidak ada rahasia di diff, dokumen terkait diperbarui
+- Tes aplikasi harus memakai konfigurasi asli (loadConfig()), bukan objek buatan tangan
+- Setiap endpoint baru wajib lolos uji curl manual (termasuk request tanpa header Origin dan dengan Origin http://localhost:5173) sebelum merge
 
 ## Aturan perubahan
 - Perbaikan bug: tulis tes yang gagal dulu, lalu perbaiki sampai tes lolos
